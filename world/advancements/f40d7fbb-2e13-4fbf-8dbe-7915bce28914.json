@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-07-11 18:50:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2018-07-06 01:37:04 +0200"
@@ -122,6 +128,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2018-07-06 21:58:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-07-11 18:50:49 +0200"
     },
     "done": true
   },
@@ -338,6 +350,7 @@
       "apple": "2018-07-09 16:21:02 +0200",
       "pumpkin_pie": "2018-07-07 17:46:59 +0200",
       "bread": "2018-07-08 17:45:26 +0200",
+      "cooked_rabbit": "2018-07-11 18:50:53 +0200",
       "cooked_chicken": "2018-07-07 23:11:25 +0200"
     },
     "done": false
