@@ -398,6 +398,7 @@
       "apple": "2018-07-06 01:47:45 +0200",
       "pumpkin_pie": "2018-07-07 15:35:48 +0200",
       "bread": "2018-07-06 01:36:23 +0200",
+      "golden_apple": "2018-07-12 23:58:56 +0200",
       "rotten_flesh": "2018-07-06 21:16:58 +0200",
       "beetroot": "2018-07-07 00:59:04 +0200",
       "cooked_chicken": "2018-07-06 02:22:37 +0200",
@@ -617,7 +618,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_chicken": "2018-07-06 23:21:10 +0200"
+      "bred_chicken": "2018-07-06 23:21:10 +0200",
+      "bred_cow": "2018-07-12 22:45:08 +0200"
     },
     "done": false
   },
@@ -1752,6 +1754,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2018-07-07 01:43:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-07-13 00:04:35 +0200"
     },
     "done": true
   },
