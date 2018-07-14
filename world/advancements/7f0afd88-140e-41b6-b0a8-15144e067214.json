@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-07-13 19:50:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-07-06 02:24:58 +0200"
@@ -368,6 +374,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2018-07-06 23:22:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2018-07-13 17:35:31 +0200"
     },
     "done": true
   },
@@ -389,12 +401,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-07-13 17:35:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-07-06 03:51:23 +0200",
       "cooked_mutton": "2018-07-06 21:13:56 +0200",
       "cooked_beef": "2018-07-06 02:31:21 +0200",
       "baked_potato": "2018-07-06 02:16:33 +0200",
+      "clownfish": "2018-07-14 00:44:19 +0200",
       "apple": "2018-07-06 01:47:45 +0200",
       "pumpkin_pie": "2018-07-07 15:35:48 +0200",
       "bread": "2018-07-06 01:36:23 +0200",
@@ -445,6 +464,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2018-07-06 03:09:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-07-13 19:41:09 +0200"
     },
     "done": true
   },
@@ -991,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-07-13 17:35:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-07-07 01:31:44 +0200"
@@ -1048,6 +1079,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2018-07-06 02:56:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-07-13 17:35:39 +0200"
     },
     "done": true
   },
@@ -1351,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2018-07-13 18:46:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-07-06 02:03:20 +0200"
@@ -1498,6 +1541,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-07-06 02:00:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-07-13 17:35:39 +0200"
     },
     "done": true
   },
@@ -1988,6 +2037,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2018-07-08 21:24:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-07-13 17:35:39 +0200"
     },
     "done": true
   },
